@@ -11,3 +11,4 @@ Base is alpine:latest
 * openjdk8
 * bash
 * tar
+* gpgme
